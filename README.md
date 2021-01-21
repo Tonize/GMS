@@ -19,4 +19,31 @@ The outputs given are
 -Optimization Visualization
 
 Disclaimer:
-This was our first taste of working on a project as a team.
+This was our first taste of working on a project as a team. I also had absolutely no knowledge of python until this project had begun since everyone coded in python.
+
+Programs used
+- flask
+- datetime
+- pandas
+- os
+- json
+- numpy
+- requests
+- scipy
+- pulp
+- collections
+- smtplib
+- ssl
+- pandas
+- email
+- re
+- dash_bootstrap_components
+- pathlib
+- dash
+- dash_core_components
+- dash_html_components
+- dash_table
+- plotly
+- io
+- base64
+- urllib
