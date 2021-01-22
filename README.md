@@ -1,9 +1,14 @@
 # GMS
 Purpose : GMS will generate an optimized schedule for employees to minimize labor costs. The program will analyze information about the team of employees and the available working shifts in order to generate an efficient working schedule. GMS will also have the ability to let users send the generated schedules to the user’s employees.
 
+Generate a work schedule that saves the owner money by paying the employees the lowest amount while also maintaining the amount of employees needed. Second was creating priority weights for specific employees and creating a chart to visualize the data.)
+
 First off thank you to my group members for all of us collaborating on this project together.
+
 Alex L.
+
 Kevin K.
+
 Rawad M.
 
 This is the begininng of our group's first Software Engineering Project.
