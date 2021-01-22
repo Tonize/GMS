@@ -19,7 +19,7 @@ The outputs given are
 -Optimization Visualization
 
 Disclaimer:
-This was our first taste of working on a project as a team. I also had absolutely no knowledge of python until this project had begun since everyone coded in python.
+This was our first taste of working on a project as a team. I also had absolutely no knowledge of python until this project had begun since everyone coded in python but I learned along the way!
 
 Programs used
 - flask
